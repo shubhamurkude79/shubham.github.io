@@ -1,8 +1,8 @@
 ## commands for git initialization
 1. git init
-2. git remote add origin git@github.com:shubhamurkude79/learn-node-express.git
+2. git remote add origin git@....
 3. cd .git
 4. touch .gitignore
 5. git fetch
-6. git config --global user.name shubhamurkude79 
-7. git config --global user.email shubhamurkude79@gmail.com
+6. git config --global user.name s... 
+7. git config --global user.email s...@gmail.com
